@@ -1,0 +1,96 @@
+h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #484c7f;
+    text-align: center;
+    
+}
+h2{
+    background-color: #ddb6c6;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 50px;
+    text-align: center;
+    padding: 25px;
+}
+
+body{
+    background-color: #ac8daf;
+    color: #f7e8f6;
+}
+
+#jbPic{
+    width:600px;
+    height:600px;
+    transform: rotate(90deg);
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 50%;
+}
+
+#afroTechPic{
+    width:600px;
+    height:600px;
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 50%; 
+}
+
+#seedzPic{
+    width:600px;
+    height:600px;
+    transform: rotate(90deg);
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 50%;
+}
+
+p:hover{
+    background-color: #ddb6c6;
+    color: #484c7f;
+    font-size: 25px;
+    opacity: 0.6;
+    transition: 0.8s;
+}
+
+#jbPic:hover, #afroTechPic:hover, #seedzPic:hover{
+    background-color: #f1d4d4;
+    transition: 0.3s;
+}
+
+.button{
+    background-color: #4CAF50;
+    color: white;
+    width 30px;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 50%;
+   
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
